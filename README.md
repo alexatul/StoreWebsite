@@ -1,3 +1,7 @@
+**Title**
+
+The loggin with the correct credentials
+
 **Description**
 
 Check if the login works when a person uses a corect user and pass.
